@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aDTjQbE2GkzO0NSPhX0thMBTiM3eo55ijV7WBPwwXwWlyBFr1P01xJGgsysy7wyt4uN0HPXI/8gq7JanAPj9wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valer\\OneDrive\\Документы\\My Games\\Terraria\\tModLoader\\ModSources\\TrueEye\\TrueEye.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valer\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

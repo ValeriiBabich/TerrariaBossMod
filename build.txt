@@ -1,0 +1,3 @@
+displayName = TrueEye
+author = ValeriiBabich
+version = 0.1
